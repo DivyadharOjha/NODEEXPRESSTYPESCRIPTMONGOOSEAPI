@@ -1,0 +1,6 @@
+PUSH To GIT
+============
+1. git add .
+2. git commit -m "message"
+3. git push -u origin master
+// GIT PATH = https://github.com/DivyadharOjha/NODEEXPRESSTYPESCRIPTMONGOOSEAPI.git
